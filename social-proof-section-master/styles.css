@@ -1,9 +1,8 @@
 html {
-  background-color: #bcbcbc;
+  background-color: #c2c2c2;
 }
 
 .description-div {
-  border: 1px solid blue;
   margin: 0 60% 0 5%;
 }
 
@@ -15,7 +14,6 @@ html {
 }
 
 .stars-div {
-  border: 1px solid red;
   float: right;
   margin: -250px 15% 0 0;
 }
@@ -25,9 +23,8 @@ html {
 }
 
 .reviews {
-  background-color: #eee6ff;
+  background-color: #bcbcbc;
   color: #5f157b;
-  border: 1px solid black;
   font-family: sans-serif;
   margin: 0 5% 5% -5%;
   padding: 10px 70px 10px 25px;
@@ -35,9 +32,8 @@ html {
 }
 
 .report-guru {
-  background-color: #eee6ff;
+  background-color: #bcbcbc;
   color: #5f157b;
-  border: 1px solid black;
   font-family: sans-serif;
   margin: 0 0 5% 0;
   padding: 10px 70px 10px 25px;
@@ -45,66 +41,100 @@ html {
 }
 
 .besttech {
-  background-color: #eee6ff;
+  background-color: #bcbcbc;
   color: #5f157b;
-  border: 1px solid black;
   font-family: sans-serif;
   margin: 0 -5% 0 5%;
   padding: 10px 50px 10px 55px;
   border-radius: 5px;
 }
 
+.customer-reviews {
+  border: 1px solid red;
+  width: 100%;
+  overflow: hidden;
+}
+
 .colton-smith-div {
   background-color: #5f157b;
   font-family: sans-serif;
+  float: left;
+  width: 33%;
+  border-radius: 5px;
 }
 
 .img-colton {
   border-radius: 50%;
-  width: 3%;
-  height: 3%;
+  width: 10%;
+  height: 10%;
+
+}
+
+.c-s-top {
+  display: inline-block;
 }
 
 .irene-roberts-div {
   background-color: #5f157b;
   font-family: sans-serif;
+  float: left;
+  width: 33%;
+  border-radius: 5px;
 }
 
 .img-irene {
   border-radius: 50%;
-  width: 3%;
-  height: 3%;
+  width: 10%;
+  height: 10%;
+}
+
+.i-r-top {
+  display: inline-block;
 }
 
 .anne-wallace-div {
   background-color: #5f157b;
   font-family: sans-serif;
+  float: left;
+  width: 33%;
+  border-radius: 5px;
 }
 
 .img-anne {
   border-radius: 50%;
-  width: 3%;
-  height: 3%;
+  width: 10%;
+  height: 10%;
+}
+
+.a-w-top {
+  display: inline-block;
+}
+
+.feedback {
+  font-size: .75em;
 }
 
 h1 {
   font-family: sans-serif;
   color: #5f157b;
   font-size: 3em;
+  line-height: 1em;
 
 }
 
 h4 {
   color: #bcbcbc;
   font-family: sans-serif;
+  margin-bottom: -1px;
 }
 
 p {
   color: #bcbcbc;
   font-family: sans-serif;
+  line-height: 1.5;
 }
 
 span {
   color: #9f72af;
-  font-size: .9em;
+  font-size: .8em;
 }
