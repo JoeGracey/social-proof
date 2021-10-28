@@ -1,3 +1,68 @@
 html {
-  background-color: grey;
+  background-color: #bcbcbc;
+}
+
+.description-div {
+
+}
+
+.stars-div {
+
+}
+
+.reviews {
+  background-color: #eee6ff;
+  color: #5f157b;
+}
+
+.report-guru {
+  background-color: #eee6ff;
+  color: #5f157b;
+}
+
+.besttech {
+  background-color: #eee6ff;
+  color: #5f157b;
+}
+
+.colton-smith-div {
+  background-color: #5f157b;
+}
+
+.img-colton {
+  border-radius: 50%;
+  width: 3%;
+  height: 3%;
+}
+
+.irene-roberts-div {
+  background-color: #5f157b;
+}
+
+.img-irene {
+  border-radius: 50%;
+  width: 3%;
+  height: 3%;
+}
+
+.anne-wallace-div {
+  background-color: #5f157b;
+}
+
+.img-anne {
+  border-radius: 50%;
+  width: 3%;
+  height: 3%;
+}
+
+h4 {
+  color: #bcbcbc;
+}
+
+p {
+  color: #bcbcbc;
+}
+
+span {
+  color: #9f72af;
 }
