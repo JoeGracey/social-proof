@@ -3,30 +3,60 @@ html {
 }
 
 .description-div {
+  border: 1px solid blue;
+  margin: 0 60% 0 5%;
+}
+
+.slogan {
+  color: #5b5b5b;
+  line-height: 1.5;
+  margin-top: -6%;
 
 }
 
 .stars-div {
+  border: 1px solid red;
+  float: right;
+  margin: -250px 15% 0 0;
+}
 
+.star {
+  margin-right: 20px;
 }
 
 .reviews {
   background-color: #eee6ff;
   color: #5f157b;
+  border: 1px solid black;
+  font-family: sans-serif;
+  margin: 0 5% 5% -5%;
+  padding: 10px 70px 10px 25px;
+  border-radius: 5px;
 }
 
 .report-guru {
   background-color: #eee6ff;
   color: #5f157b;
+  border: 1px solid black;
+  font-family: sans-serif;
+  margin: 0 0 5% 0;
+  padding: 10px 70px 10px 25px;
+  border-radius: 5px;
 }
 
 .besttech {
   background-color: #eee6ff;
   color: #5f157b;
+  border: 1px solid black;
+  font-family: sans-serif;
+  margin: 0 -5% 0 5%;
+  padding: 10px 50px 10px 55px;
+  border-radius: 5px;
 }
 
 .colton-smith-div {
   background-color: #5f157b;
+  font-family: sans-serif;
 }
 
 .img-colton {
@@ -37,6 +67,7 @@ html {
 
 .irene-roberts-div {
   background-color: #5f157b;
+  font-family: sans-serif;
 }
 
 .img-irene {
@@ -47,6 +78,7 @@ html {
 
 .anne-wallace-div {
   background-color: #5f157b;
+  font-family: sans-serif;
 }
 
 .img-anne {
@@ -55,14 +87,24 @@ html {
   height: 3%;
 }
 
+h1 {
+  font-family: sans-serif;
+  color: #5f157b;
+  font-size: 3em;
+
+}
+
 h4 {
   color: #bcbcbc;
+  font-family: sans-serif;
 }
 
 p {
   color: #bcbcbc;
+  font-family: sans-serif;
 }
 
 span {
   color: #9f72af;
+  font-size: .9em;
 }
