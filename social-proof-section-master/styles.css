@@ -15,7 +15,7 @@ html {
 
 .stars-div {
   float: right;
-  margin: -250px 15% 0 0;
+  margin: -225px 15% 0 0;
 }
 
 .star {
@@ -50,23 +50,27 @@ html {
 }
 
 .customer-reviews {
-  border: 1px solid red;
-  width: 100%;
   overflow: hidden;
 }
 
-.colton-smith-div {
+.colton-smith-background {
   background-color: #5f157b;
-  font-family: sans-serif;
-  float: left;
-  width: 33%;
   border-radius: 5px;
+  float: left;
+  width: 300px;
+  height: 200px;
+  margin: 40px 45px 0 60px;
+}
+
+.colton-smith-div {
+  font-family: sans-serif;
 }
 
 .img-colton {
   border-radius: 50%;
   width: 10%;
   height: 10%;
+  margin: 25px 15px 0 30px;
 
 }
 
@@ -74,36 +78,48 @@ html {
   display: inline-block;
 }
 
-.irene-roberts-div {
+.irene-roberts-background {
   background-color: #5f157b;
-  font-family: sans-serif;
-  float: left;
-  width: 33%;
   border-radius: 5px;
+  float: left;
+  width: 300px;
+  height: 200px;
+  margin: 50px 45px 0 0;
+}
+
+.irene-roberts-div {
+  font-family: sans-serif;
 }
 
 .img-irene {
   border-radius: 50%;
   width: 10%;
   height: 10%;
+  margin: 25px 15px 0 30px;
 }
 
 .i-r-top {
   display: inline-block;
 }
 
-.anne-wallace-div {
+.anne-wallace-background {
   background-color: #5f157b;
-  font-family: sans-serif;
-  float: left;
-  width: 33%;
   border-radius: 5px;
+  float: left;
+  width: 300px;
+  height: 200px;
+  margin: 60px 0 0 0;
+}
+
+.anne-wallace-div {
+  font-family: sans-serif;
 }
 
 .img-anne {
   border-radius: 50%;
   width: 10%;
   height: 10%;
+  margin: 25px 15px 0 30px;
 }
 
 .a-w-top {
@@ -112,6 +128,7 @@ html {
 
 .feedback {
   font-size: .75em;
+  margin: 25px 30px 0 30px;
 }
 
 h1 {
